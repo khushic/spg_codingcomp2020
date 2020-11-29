@@ -1,1 +1,1 @@
-# spg_codingcomp2020
+# STEMPowering Girls Coding Competition 2020
