@@ -5,8 +5,6 @@ public class GeorgesCalculator5 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] n = {1,2,3,3,3,3,3,3,3,3,3,3,2,3,22,2,3,3,3};
-		System.out.println(mode(n));
 	}
 	
 	public static int mode(int[] array) {
