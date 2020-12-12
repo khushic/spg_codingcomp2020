@@ -1,0 +1,16 @@
+Anna’s Word Scrambler
+Anna wants to communicate with her friend George using secret messages so she decided to make a word scrambler. Her scrambler takes a word and prints the first letter, then the first two letters, then the first three letters and so on until the whole string is printed with each sequence on a new line.
+Input: String str
+Precondition: length of str is < 20
+Output: Print the output to the console.
+Sample:
+Input: “scramble”
+Output:
+s
+sc
+scr
+scra
+scram
+scarmb
+scrambl
+scramble

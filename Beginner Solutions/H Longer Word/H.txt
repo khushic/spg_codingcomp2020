@@ -1,0 +1,6 @@
+Longer Word
+Charlie needs to teach her little brother about numbers. She wants to teach him that sum numbers are greater than others. Charlie’s little brother loves robots so she wants to write him a program so he has fun. Given two different words, help Charlie teach her brother by writing a method that tells him which word is longer and how many letters it has.
+Input: String str1, String str2
+Output: String
+Sample:
+Input: “apple”, “banana”					Output: “banana 6”

@@ -1,0 +1,8 @@
+Anna’s Substring Counter
+Anna wants to know how many times a certain string appears in a larger string. She can then use this information to write another code. Her counter should take the given substring and see how many times it repeats in a bigger string.
+	Input: String mainstring, String substring
+	Output: int num
+	Sample:
+Input: “JISHISIRGSNVRHIOSIHEGIOIRGERHIOERINSVRHI”, “HI”
+Output: 4
+Explanation: If you go through the list, you can see that “HI” repeats in the main string 4 times.

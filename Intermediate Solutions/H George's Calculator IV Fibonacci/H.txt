@@ -1,0 +1,8 @@
+George’s Calculator IV: Fibonacci
+George wants to add another function to his calculator. This one finds the nth number in the fibonacci sequence. The fibonacci sequence is a sequence where the first two numbers in the list are 1 and every number after that is the sum of the two previous numbers, so the third element would be the sum of the first two: 1+1=2. The fourth element would be the sum of the second and third element: 1+2=3 and so on.
+Input: int n
+Precondition: 0 < n < 20
+Output: int
+Sample:
+Input: 6					Output: 8
+Explanation: The fibonacci sequence with 10 numbers is 1, 1, 2, 3, 5, 8, 13, 21, 34, 55. The 6th number in this list is 8.

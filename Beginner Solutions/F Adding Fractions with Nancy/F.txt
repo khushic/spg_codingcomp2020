@@ -1,0 +1,6 @@
+Adding Fractions with Nancy
+Nancy is learning how to add fractions, but she’s having a hard time. She wants to write a program that will add fractions for her, and return the result. Help her by completing a method that adds two fractions and return the sum as a String. You will be given four ints: 2 numerators and 2 denominators. The sum can be an improper fraction, and it does not have to be reduced.
+Input: int num1, int denom1, int num2, int denom2
+Output: String
+Sample:
+Input: 3, 5, 4, 7 					Output: “41/35”

@@ -1,0 +1,6 @@
+George’s Calculator
+Ugh! George hates math. He wants to make himself a calculator to help him out with his homework! His calculator will take in two different numbers (doubles or floats) and an operation. It will give him the answer (as a double or float) back. Thankfully, George doesn’t need to do any complicated math. All he needs are the operations “+”, “-”, “*”, and “/”.
+Input: double a, double b, String operation
+Output: double
+Sample:
+Input: 3.7, 7.2, “+”						Output: 10.9

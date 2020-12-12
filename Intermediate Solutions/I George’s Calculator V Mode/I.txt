@@ -1,0 +1,7 @@
+George’s Calculator V: Mode
+George is on a calculator rampage! His next function is one that finds the mode of a list of numbers. The mode is the number in a list that appears the most.
+Input: Array of ints arr
+Precondition: length of arr is < 100
+Output: int
+Sample:
+Input: 1, 4, 6, 3, 2, 1, 3, 3, 2, 6, 6, 6, 6		Output: 6

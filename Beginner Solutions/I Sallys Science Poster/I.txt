@@ -1,0 +1,6 @@
+Sally’s Science Poster
+Sally is making a poster for science class, and she wants the words on her poster to be in all uppercase letters. To accomplish this, she wants you to help her write a program that will take in a String and return that String in uppercase letters.
+Input: String str
+Output: String
+Sample:
+Input: “Simple Machines” 				Output: “SIMPLE MACHINES”

@@ -1,0 +1,7 @@
+Alex’s Cookies
+Alex is baking cookies and he wants to give some to his friend Joey. He wants each of them to get the same amount of cookies, and this is only possible if Alex bakes an even number of cookies. Given a number of cookies, help Alex by writing a method that tells him whether or not he and Joey can have the same number of cookies.
+Input: int cookies
+Output: String
+Sample:
+Input: 22			Output: “Alex and Joey can share the cookies equally”
+Input: 15			Output: “Alex and Joey cannot share the cookies equally”

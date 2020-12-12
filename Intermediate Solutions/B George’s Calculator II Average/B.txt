@@ -1,0 +1,7 @@
+George’s Calculator II: Average
+George wants to add another function on his calculator that finds the average of a list of numbers. The average is equal to the sum of all the numbers in a list divided by the number of elements in the list.
+Input: Array of ints arr
+Precondition: length of arr is < 100 and > 2
+Output: int
+Sample:
+Input: 1, 4, 6, 3, 2					Output: 3.2

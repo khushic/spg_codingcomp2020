@@ -1,0 +1,6 @@
+Amy’s Typing Tricks
+Amy is having fun showing her friends the cool ways she can type. She wants to make a method that puts spaces between each character. Given a string, can you help Amy out?
+Input: String str
+Output: Stringa
+Sample:
+Input: “good afternoon”			     	      Output: “g o o d  a f t e r n o o n”

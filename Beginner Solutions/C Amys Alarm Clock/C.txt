@@ -1,0 +1,17 @@
+Amy’s Alarm Clock
+Oh no! George’s sister, Amy, keeps forgetting when to wake up in the morning. She needs to make a program to remind her when to wake up. She will input two booleans, whether it is winter, and whether she is on vacation, and receive a time to wake up at.
+
+If it is winter and vacation, she will wake up at 12:00 pm
+
+If it is winter and not vacation, she will wake up at 7:00 am
+
+If it is not winter and vacation, she will wake up at 11:00 am
+
+If it is not winter and not vacation, she will wake up at 7:00am
+
+Return a string saying what time we must wake up.
+
+Input: boolean winter, boolean vacation
+Output: String
+Sample:
+Input: true, false						Output: “7:00 am”

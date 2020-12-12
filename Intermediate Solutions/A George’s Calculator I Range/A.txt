@@ -1,0 +1,7 @@
+George’s Calculator I: Range
+Oh no! George is having a tough time with online school so he decided to make a calculator to check his homework. One of the functions of his calculator is to find the range in a list of numbers (the range is the difference between the smallest and largest numbers). George isn’t very good at programming either, so help him figure out how to code it!
+Input: Array of ints arr
+Precondition: length of arr is < 100
+Output: int
+Sample:
+Input: 1, 4, 6, 3, 2					Output: 5

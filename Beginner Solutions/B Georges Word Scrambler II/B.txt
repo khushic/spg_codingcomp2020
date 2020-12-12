@@ -1,0 +1,7 @@
+George’s Word Scrambler II
+Dang it, George’s first word scrambler was found out by his sister. He decided to make a new, more complicated scrambler. This one takes a string, a starting index, and an ending index, and turns it into a substring of the input string from the starting index to ending index (inclusive)
+Input: String str, int a, int b where str is the input string, a is the starting index and b is the ending index
+Preconditions: a is less than b, a and b are within the length of str
+Output: String
+Sample:
+Input: thursday, 2, 5					Output: ursd

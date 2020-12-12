@@ -1,0 +1,8 @@
+Organizing Data 1: Repeated Values Removed
+You are given a set of data. With this data, you need to remove the repeated values. With the resulting list, find and return the length.
+Precondition: length of the array is < 100
+Input: int[]
+Output: int length
+Sample:
+Input: [1,2,3,4,2,5,2,3,52,3,4,2,6,7,8,4,92]	Output: 10
+Explanation: When you remove the repeating values, you get the list [1,2,3,4,5,52,6,7,8,92]. Then you find the length, which is 10.

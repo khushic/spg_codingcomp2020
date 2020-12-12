@@ -1,0 +1,7 @@
+Amy’s Letter Swapper
+Amy and George are in a competition. George bet Amy that she couldn’t make a word scrambler program too. But since Amy is young, all she needs to do is make a program that takes a string as an input, and 2 indexes. The program will swap the characters at each index. Help Amy out!
+Preconditions: a is less than b, a and b are be within the length of str
+Input: String str, int a, int b
+Output: String
+Sample:
+Input: “Good Morning”, 3, 9					Output: “Gooi Morndng”

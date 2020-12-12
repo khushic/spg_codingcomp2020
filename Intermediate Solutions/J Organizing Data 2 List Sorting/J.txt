@@ -1,0 +1,8 @@
+Organizing Data 2: List Sorting
+You are given a set or data with an unknown amount of items. You have to take this list and organize the data in chronological order WITHOUT using Arrays.sort().
+Input: int[]
+Precondition: length of arr is < 100
+Output: int[]
+Sample:
+Input: [1, 4, 6, 3, 2, 1, 3, 3, 2, 6, 6, 6, 6]
+Output: [1, 1, 2, 2, 3, 3, 3, 4, 6, 6, 6, 6, 6]

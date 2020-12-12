@@ -1,0 +1,7 @@
+George’s Word Scrambler
+George was bored over quarantine and decided to make a word scrambler to send secret signals to his friends. His scrambler takes words and reverses them. Help him create a program which takes in a string and reverses it.
+Input: String str
+Precondition: length of str is < 100
+Output: String
+Sample:
+Input: hello					Output: olleh
